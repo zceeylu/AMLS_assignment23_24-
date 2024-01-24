@@ -19,6 +19,19 @@ python3 main.py
 ## Project Structure
 The repository is structured as follows:
 
+```
+AMLS_23_24_SN20007754
+
+|__A
+|  |__DataReshape.py #contains
+|  |__function.py #contains 
+|  |__KNN.py #contains KNN model
+|  |__RandomForest.py #contains RandomForest Model
+|  |__SVM.py #contains SVM model
+
+|__B
+
+```
 
 ## Requirements
 To install the required packages, run the following command:
