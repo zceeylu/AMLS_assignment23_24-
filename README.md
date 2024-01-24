@@ -40,7 +40,9 @@ AMLS_23_24_SN20007754
 |  |__Task B #contains results for Task B
 
 |__main.py #main file to run tasks
+
 |__README.md #
+
 |__requirements.txt #requirements to be installed
 
 ```
