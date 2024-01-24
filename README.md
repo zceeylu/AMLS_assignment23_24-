@@ -30,6 +30,18 @@ AMLS_23_24_SN20007754
 |  |__SVM.py #contains SVM model
 
 |__B
+|  |__function.py #contains 
+|  |__CNN.py #contains CNN model
+
+|__Datasets #empty folder
+
+|__results_and_analysis
+|  |__Task_A #contains results for Task A
+|  |__Task B #contains results for Task B
+
+|__main.py #main file to run tasks
+|__README.md #
+|__requirements.txt #requirements to be installed
 
 ```
 
