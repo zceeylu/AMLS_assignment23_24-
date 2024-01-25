@@ -15,7 +15,7 @@ To run the project, run the following command:
 ```
 python3 main.py
 ```
-if you want to run seperate models, comment out the model section in the main.py file.
+if you want to run seperate models, comment out the unwanted model section(s) in the ```main.py``` file.
 
 ## Project Structure and Role of each file
 The repository is structured as follows:
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ```
 
 ## Acknowledgements
-The datasets used in this project are from the MedMNIST repository, and are cited as follows:
+The datasets used in this project are from the MedMNIST repository, which can be downloaded via the link: https://medmnist.com/, and are cited as follows:
 ```
 Jiancheng Yang, Rui Shi, Donglai Wei, Zequan Liu, Lin Zhao, Bilian Ke, Hanspeter Pfister, Bingbing Ni. Yang, Jiancheng, et al. "MedMNIST v2-A large-scale lightweight benchmark for 2D and 3D biomedical image classification." Scientific Data, 2023.
                             
