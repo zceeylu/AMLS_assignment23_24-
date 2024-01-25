@@ -2,7 +2,7 @@
 This repository is used to document the progress made for the AMLS assignment. 
 
 ## Project Overview
-Nowadays, the field of machine learning plays a pivotal role in addressing complex challenges in various domains. In this context, the Applied Machine Learning Systems (AMLS) assignment provides an opportunity to delve into real-world datasets and apply machine learning concepts learned in lectures and labs.
+Nowadays, the field of machine learning plays a pivotal role in addressing complex challenges in various domains. In this context, the Applied Machine Learning Systems (AMLS) assignment provides an opportunity to delve into real-world datasets and apply machine learning concepts learned in lectures and labs. In the code, I have implemented three ML models - SVM, KNN and RandomForest Models for Task A - Binary classification task and one ML models - CNN model, for Task B - Multi-class classification task. 
 
 ## Project Brief
 The project consists of two tasks:
