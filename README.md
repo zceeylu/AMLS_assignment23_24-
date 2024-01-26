@@ -11,6 +11,7 @@ The project consists of two tasks:
 
 
 ## Running the Project
+When adding pneumoniamnist.npz and pathmnist.npz files to the folder "Datasets", remember to delete the empty file inside the "Datasets" folder.
 To run the project, run the following command:
 ```
 python3 main.py
